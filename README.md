@@ -5,3 +5,4 @@
 - บ่อเพาะเลี้ยงสัตว์น้ำจืด เป็นแหล่งกำเนิดมลพิษที่ถูกควบคุมน้ำเสีย https://ratchakitcha.soc.go.th/documents/70086.pdf
 - โรงงานที่ถูกควบคุมน้ำเสีย https://ratchakitcha.soc.go.th/documents/58789.pdf
 - รถยนต์ควันดำ ไม่รวมรถยนต์โบราณ https://ratchakitcha.soc.go.th/documents/56278.pdf https://ratchakitcha.soc.go.th/documents/56279.pdf
+- มาตรฐานน้ำทิ้งอาคาร https://ratchakitcha.soc.go.th/documents/40426.pdf
