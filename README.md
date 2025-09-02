@@ -7,3 +7,4 @@
 - รถยนต์ควันดำ ไม่รวมรถยนต์โบราณ https://ratchakitcha.soc.go.th/documents/56278.pdf https://ratchakitcha.soc.go.th/documents/56279.pdf
 - มาตรฐานน้ำทิ้งอาคาร https://ratchakitcha.soc.go.th/documents/40426.pdf
 - มาตรฐานน้ำทิ้งโรงงานอาหารสัตว์ https://ratchakitcha.soc.go.th/documents/40428.pdf
+- อาคารที่ถูกควบคุมน้ำเสีย https://ratchakitcha.soc.go.th/documents/40427.pdf
